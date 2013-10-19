@@ -1,0 +1,5 @@
+lsystem
+axiom \\\F
+angle 30
+productions F->\F//////G\\\\\\//F//////G
+L->/F//////G\\\\\\//F//////G

@@ -1,0 +1,4 @@
+lsystem
+axiom \F//F//F
+angle 60
+productions F->F\F//F\F

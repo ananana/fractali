@@ -1,0 +1,5 @@
+lsystem
+axiom F
+angle 120
+productions
+F -> F\F/F

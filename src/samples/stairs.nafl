@@ -1,0 +1,5 @@
+lsystem
+	axiom F
+        angle 90
+        productions
+		F -> F\F/F/F\F

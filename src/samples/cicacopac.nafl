@@ -1,0 +1,7 @@
+lsystem
+axiom \\\\G\\\JF/////////HJ\\\\\IF/////////HJ\G/////////L
+angle 20
+productions
+H->L
+G->GG
+F->G\\JJF/////////HJJ\\\\\JJF/////////HJJ\\\IIF/////////HJJ\\\\\\\\G/////////L

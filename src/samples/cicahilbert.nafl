@@ -1,0 +1,6 @@
+lsystem
+axiom L
+angle 90
+productions
+    L -> \RF/LFL/FR\
+    R -> /LF\RFR\FL/
